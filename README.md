@@ -57,16 +57,18 @@
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="25" alt="notion logo"  />
 </div>
 
-<div align="left">
-<h3 >🔥 GitHub Stats 🔥</h3>
+<h3 align="center">🔥 GitHub Stats 🔥</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=atoosbeta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=atoosbeta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atoosbeta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<div align="center">
+  <a href="#" title="atoosbeta">
+    <img width="330" align="center" style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atoosbeta&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="atoosbeta" style="margin-left:10px;">
+    <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=atoosbeta&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+  </a>
 </div>
 
-<div align="right">
+<div align="center">
 <h3>✍️ Dev Quote ✍️</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
